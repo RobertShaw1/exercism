@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReverseStringTest" tests="5" skipped="3" failures="0" errors="0" timestamp="2018-01-09T17:24:58" hostname="Las-MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="testAWord" classname="ReverseStringTest" time="0.001"/>
+  <testcase name="testAnEmptyString" classname="ReverseStringTest" time="0.0"/>
+  <testcase name="testACapitalizedWord" classname="ReverseStringTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testASentenceWithPunctuation" classname="ReverseStringTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAPalindrome" classname="ReverseStringTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
